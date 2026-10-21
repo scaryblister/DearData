@@ -29,3 +29,10 @@ date,time,place,firstApp,reason
 19/10/2026,23:00,home,youtube,entertainment
 19/10/2026,23:00,home,chrome,study
 19/10/2026,23:15,home,chrome,study
+20/10/2026,09:00,university,photos,entertainment
+20/10/2026,11:20,university,reddit,entertainment
+20/10/2026,11:27,university,outlook,social
+20/10/2026,13:01,university,playstationApp,entertainment
+20/10/2026,15:04,bus,amazon,shopping
+20/10/2026,15:10,bus,spotify,music
+20/10/2026,18:07,home,next,shopping
