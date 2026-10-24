@@ -36,3 +36,10 @@ date,time,place,firstApp,reason
 20/10/2026,15:04,bus,amazon,shopping
 20/10/2026,15:10,bus,spotify,music
 20/10/2026,18:07,home,next,shopping
+23/10/2026,09:05,home,discord,other
+23/10/2026,12:15,university,whatsapp,message
+23/10/2026,15:12,bus,spotify,music
+24/10/2026,11:01,home,instagram,message
+24/10/2026,11:15,home,tiktok,entertainment
+24/10/2026,11:30,home,instagram,social
+24/10/2026,12:40,home,chrome,other
