@@ -43,3 +43,6 @@ date,time,place,firstApp,reason
 24/10/2026,11:15,home,tiktok,entertainment
 24/10/2026,11:30,home,instagram,social
 24/10/2026,12:40,home,chrome,other
+25/10/2026,11:30,home,whatsapp,social
+25/10/2026,12:30,home,instagram,entertainment
+25/10/2026,18:19,home,subwaySurfers,entertainment
